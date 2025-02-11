@@ -1,0 +1,1 @@
+This repository contains a MATLAB function that produces an uninformative error message when given negative input. The bug is that the error message does not clearly explain why the input is invalid. The solution provides a more descriptive error message and alternative approaches for handling negative input.
